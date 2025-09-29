@@ -1,4 +1,4 @@
-# Westland-Of-Guardian
+# Westland Of-Guardian
 
 
  ## 👨‍🏫 프로젝트 소개
